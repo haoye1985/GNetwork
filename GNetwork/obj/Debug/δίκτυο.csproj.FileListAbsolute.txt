@@ -1,0 +1,7 @@
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\bin\Debug\GraphForWinForm.dll
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\bin\Debug\GraphForWinForm.pdb
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\δίκτυο.csprojResolveAssemblyReference.cache
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.GraphPanel.resources
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\δίκτυο.csproj.GenerateResource.Cache
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.dll
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.pdb

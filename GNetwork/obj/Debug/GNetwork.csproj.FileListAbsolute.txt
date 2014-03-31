@@ -1,0 +1,7 @@
+C:\Partition-HaoYe\Projects\GNetwork\GNetwork\obj\Debug\GraphForWinForm.GraphPanel.resources
+C:\Partition-HaoYe\Projects\GNetwork\GNetwork\obj\Debug\GNetwork.csproj.GenerateResource.Cache
+C:\Partition-HaoYe\Projects\GNetwork\GNetwork\obj\Debug\GraphForWinForm.dll
+C:\Partition-HaoYe\Projects\GNetwork\GNetwork\bin\Debug\GraphForWinForm.dll
+C:\Partition-HaoYe\Projects\GNetwork\GNetwork\bin\Debug\GraphForWinForm.pdb
+C:\Partition-HaoYe\Projects\GNetwork\GNetwork\obj\Debug\GraphForWinForm.pdb
+C:\Partition-HaoYe\Projects\GNetwork\GNetwork\obj\Debug\GNetwork.csprojResolveAssemblyReference.cache

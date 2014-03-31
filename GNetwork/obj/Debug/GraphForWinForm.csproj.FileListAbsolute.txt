@@ -1,0 +1,14 @@
+C:\Partition-HaoYe\TestProjects\GraphForWinForm\GraphForWinForm\bin\Debug\GraphForWinForm.dll
+C:\Partition-HaoYe\TestProjects\GraphForWinForm\GraphForWinForm\bin\Debug\GraphForWinForm.pdb
+C:\Partition-HaoYe\TestProjects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.csprojResolveAssemblyReference.cache
+C:\Partition-HaoYe\TestProjects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.GraphControl.resources
+C:\Partition-HaoYe\TestProjects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.csproj.GenerateResource.Cache
+C:\Partition-HaoYe\TestProjects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.dll
+C:\Partition-HaoYe\TestProjects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.pdb
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\bin\Debug\GraphForWinForm.dll
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\bin\Debug\GraphForWinForm.pdb
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.csprojResolveAssemblyReference.cache
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.GraphControl.resources
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.csproj.GenerateResource.Cache
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.dll
+C:\Partition-HaoYe\Projects\GraphForWinForm\GraphForWinForm\obj\Debug\GraphForWinForm.pdb
